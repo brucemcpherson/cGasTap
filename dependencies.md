@@ -1,5 +1,5 @@
 # Google Apps Script Project: cGasTap
-This repo (cGasTap) was automatically updated on 27 July 2016 10:35:12 BST by GasGit
+This repo (cGasTap) was automatically updated on 31 October 2018 11:39:25 GMT by GasGit
 
 For more information see the [desktop liberation site](http://ramblings.mcpher.com/Home/excelquirks/drivesdk/gettinggithubready "desktop liberation") or [contact me on G+](https://plus.google.com/+BruceMcpherson "Bruce McPherson - GDE")
 ## Details for Apps Script project cGasTap
@@ -10,11 +10,14 @@ The shared link for [cGasTap is here](https://script.google.com/d/1jFXuMOa__qUgc
 *name*|*type*
 --- | --- 
 Code| server_js
+appsscript| json
 ### Directly referenced libraries
 no libraries discovered
 ### All dependencies and sub dependencies
 no libraries discovered
 ### Enabled Google Services
 no libraries discovered
-###Need more detail ?
+### Scopes required
+no scopes discovered
+### Need more detail ?
 You can see [full project info as json here](info.json)
